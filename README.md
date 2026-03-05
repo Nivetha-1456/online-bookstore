@@ -95,7 +95,7 @@ Book Haven is a **professional online bookstore** built as a complete web develo
 #### 2️⃣ **Get the Code**
 ```bash
 # Clone repository (if you have Git)
-git clone https://github.com/YOUR_USERNAME/bookstore.git
+git clone https://github.com/nivetha145/bookstore.git
 
 # OR download ZIP and extract
 # Move to XAMPP htdocs folder
